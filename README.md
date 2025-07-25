@@ -1,1 +1,1 @@
-Pagina web mobile testata su 400pxx1200
+Pagina web mobile testata su 400x1200
